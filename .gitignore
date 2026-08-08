@@ -1,18 +1,25 @@
-# Python                                                                                                                                        
-  __pycache__/                                                                                                                                  
-  *.py[cod]
-  *.egg-info/
-  .env
+# Data — too large for GitHub
+data/
 
-  # Data (too large for GitHub)
-  data/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
 
-  # Mac                                                                                                                                           
-  .DS_Store
-                                                                                                                                                  
-  # Jupyter                                                                                                                                     
-  .ipynb_checkpoints/
+# Environment variables — never commit API keys
+.env
+.env.*
 
-  # Virtual environment
-  venv/
-  .venv/
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Experiment outputs
+*.log
