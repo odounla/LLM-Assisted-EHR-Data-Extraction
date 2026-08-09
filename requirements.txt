@@ -1,0 +1,13 @@
+# Core utilities
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.7.4
+
+# OpenAI API
+openai==1.35.0
+
+# Anthropic API
+anthropic==0.29.0
+
+# Testing
+pytest==8.2.2
