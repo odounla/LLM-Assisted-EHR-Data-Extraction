@@ -1,10 +1,11 @@
-import whisper
+import mlx_whisper
 
-model = whisper.load_model('large-v3')
+# Same Whisper large-v3 weights, run on the Apple GPU (MLX) instead of CPU.
+MODEL_REPO = "mlx-community/whisper-large-v3-mlx"
 
 
 def transcribe(audio_path: str) -> dict:
-    """Transcribe one .mp3 with Whisper large-v3.
+    """Transcribe one .mp3 with Whisper large-v3 (MLX implementation).
 
     Returns the full Whisper result dict:
       - 'text': the whole transcript as one string
@@ -18,8 +19,9 @@ def transcribe(audio_path: str) -> dict:
       - condition_on_previous_text=False: stops Whisper from feeding its
         own earlier output back in, which causes repetition loops
     """
-    result = model.transcribe(
+    result = mlx_whisper.transcribe(
         audio_path,
+        path_or_hf_repo=MODEL_REPO,
         word_timestamps=True,
         condition_on_previous_text=False,
     )
