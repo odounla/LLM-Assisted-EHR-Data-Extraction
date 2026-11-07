@@ -24,3 +24,6 @@ build/
 # Experiment outputs
 *.log
 .venv/
+tools/
+.venv-nlp/
+output/

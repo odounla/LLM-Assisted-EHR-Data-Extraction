@@ -14,7 +14,7 @@ from src.corpus.fhir_extractor import extract_clinical_context
 from src.corpus.dialogue_generator import generate_dialogue_anthropic
 
 # Where the input bundles live and where dialogues get written.
-INPUT_DIR = "data/synthea/test/fhir"
+INPUT_DIR = "output/fhir" 
 OUTPUT_DIR = "data/corpus"
 
 # Cap how many dialogues to generate in one run. Useful while testing so you
@@ -80,6 +80,11 @@ def main():
 
         # Stage 2: generate dialogue. Wrap the API call so one failure
         # (network, rate limit) doesn't lose the 39 patients around it.
+        out_name = source_name.replace(".json", ".txt")                                                     
+        out_path = os.path.join(OUTPUT_DIR, out_name)                                                       
+        if os.path.exists(out_path):                                                                        
+            print(f"[{i}/{total}] {source_name} ... skip (already exists)")                                 
+            continue  
         print(f"[{i}/{total}] {source_name} ... generating")
         try:
             dialogue = generate_dialogue_anthropic(context)
@@ -89,8 +94,6 @@ def main():
             continue
 
         # Requirement 4: save with same stem, .txt extension (traceable).
-        out_name = source_name.replace(".json", ".txt")
-        out_path = os.path.join(OUTPUT_DIR, out_name)
         with open(out_path, "w") as f:
             f.write(dialogue)
 
