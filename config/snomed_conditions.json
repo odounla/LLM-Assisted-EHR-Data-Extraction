@@ -1,0 +1,1520 @@
+{
+  "medication review due": {
+    "code": "314529007",
+    "display": "Medication review due (situation)",
+    "tag": "situation",
+    "count": 5655
+  },
+  "stress": {
+    "code": "73595000",
+    "display": "Stress (finding)",
+    "tag": "finding",
+    "count": 2676
+  },
+  "full-time employment": {
+    "code": "160903007",
+    "display": "Full-time employment (finding)",
+    "tag": "finding",
+    "count": 2492
+  },
+  "gingivitis": {
+    "code": "66383009",
+    "display": "Gingivitis (disorder)",
+    "tag": "disorder",
+    "count": 2391
+  },
+  "part-time employment": {
+    "code": "160904001",
+    "display": "Part-time employment (finding)",
+    "tag": "finding",
+    "count": 1604
+  },
+  "limited social contact": {
+    "code": "423315002",
+    "display": "Limited social contact (finding)",
+    "tag": "finding",
+    "count": 937
+  },
+  "not in labor force": {
+    "code": "741062008",
+    "display": "Not in labor force (finding)",
+    "tag": "finding",
+    "count": 915
+  },
+  "social isolation": {
+    "code": "422650009",
+    "display": "Social isolation (finding)",
+    "tag": "finding",
+    "count": 894
+  },
+  "gingival disease": {
+    "code": "18718003",
+    "display": "Gingival disease (disorder)",
+    "tag": "disorder",
+    "count": 690
+  },
+  "viral sinusitis": {
+    "code": "444814009",
+    "display": "Viral sinusitis (disorder)",
+    "tag": "disorder",
+    "count": 655
+  },
+  "victim of intimate partner abuse": {
+    "code": "706893006",
+    "display": "Victim of intimate partner abuse (finding)",
+    "tag": "finding",
+    "count": 601
+  },
+  "prediabetes": {
+    "code": "714628002",
+    "display": "Prediabetes (finding)",
+    "tag": "finding",
+    "count": 536
+  },
+  "reports of violence in the environment": {
+    "code": "424393004",
+    "display": "Reports of violence in the environment (finding)",
+    "tag": "finding",
+    "count": 508
+  },
+  "anemia": {
+    "code": "271737000",
+    "display": "Anemia (disorder)",
+    "tag": "disorder",
+    "count": 471
+  },
+  "primary dental caries": {
+    "code": "109570002",
+    "display": "Primary dental caries (disorder)",
+    "tag": "disorder",
+    "count": 458
+  },
+  "body mass index 30+ - obesity": {
+    "code": "162864005",
+    "display": "Body mass index 30+ - obesity (finding)",
+    "tag": "finding",
+    "count": 421
+  },
+  "received higher education": {
+    "code": "224299000",
+    "display": "Received higher education (finding)",
+    "tag": "finding",
+    "count": 371
+  },
+  "acute viral pharyngitis": {
+    "code": "195662009",
+    "display": "Acute viral pharyngitis (disorder)",
+    "tag": "disorder",
+    "count": 363
+  },
+  "unemployed": {
+    "code": "73438004",
+    "display": "Unemployed (finding)",
+    "tag": "finding",
+    "count": 314
+  },
+  "acute bronchitis": {
+    "code": "10509002",
+    "display": "Acute bronchitis (disorder)",
+    "tag": "disorder",
+    "count": 295
+  },
+  "essential hypertension": {
+    "code": "59621000",
+    "display": "Essential hypertension (disorder)",
+    "tag": "disorder",
+    "count": 235
+  },
+  "metabolic syndrome x": {
+    "code": "237602007",
+    "display": "Metabolic syndrome X (disorder)",
+    "tag": "disorder",
+    "count": 208
+  },
+  "normal pregnancy": {
+    "code": "72892002",
+    "display": "Normal pregnancy (finding)",
+    "tag": "finding",
+    "count": 197
+  },
+  "has a criminal record": {
+    "code": "266948004",
+    "display": "Has a criminal record (finding)",
+    "tag": "finding",
+    "count": 192
+  },
+  "ischemic heart disease": {
+    "code": "414545008",
+    "display": "Ischemic heart disease (disorder)",
+    "tag": "disorder",
+    "count": 191
+  },
+  "abnormal findings diagnostic imaging heart+coronary circulat": {
+    "code": "274531002",
+    "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+    "tag": "finding",
+    "count": 191
+  },
+  "chronic pain": {
+    "code": "82423001",
+    "display": "Chronic pain (finding)",
+    "tag": "finding",
+    "count": 186
+  },
+  "unhealthy alcohol drinking behavior": {
+    "code": "10939881000119105",
+    "display": "Unhealthy alcohol drinking behavior (finding)",
+    "tag": "finding",
+    "count": 179
+  },
+  "past pregnancy history of miscarriage": {
+    "code": "161744009",
+    "display": "Past pregnancy history of miscarriage (situation)",
+    "tag": "situation",
+    "count": 172
+  },
+  "chronic sinusitis": {
+    "code": "40055000",
+    "display": "Chronic sinusitis (disorder)",
+    "tag": "disorder",
+    "count": 163
+  },
+  "educated to high school level": {
+    "code": "473461003",
+    "display": "Educated to high school level (finding)",
+    "tag": "finding",
+    "count": 162
+  },
+  "infection of tooth": {
+    "code": "427898007",
+    "display": "Infection of tooth (disorder)",
+    "tag": "disorder",
+    "count": 159
+  },
+  "chronic low back pain": {
+    "code": "278860009",
+    "display": "Chronic low back pain (finding)",
+    "tag": "finding",
+    "count": 146
+  },
+  "risk activity involvement": {
+    "code": "160968000",
+    "display": "Risk activity involvement (finding)",
+    "tag": "finding",
+    "count": 145
+  },
+  "loss of teeth": {
+    "code": "37320007",
+    "display": "Loss of teeth (disorder)",
+    "tag": "disorder",
+    "count": 133
+  },
+  "disorder of kidney due to diabetes mellitus": {
+    "code": "127013003",
+    "display": "Disorder of kidney due to diabetes mellitus (disorder)",
+    "tag": "disorder",
+    "count": 126
+  },
+  "dental filling lost": {
+    "code": "278558000",
+    "display": "Dental filling lost (finding)",
+    "tag": "finding",
+    "count": 124
+  },
+  "chronic kidney disease stage 1": {
+    "code": "431855005",
+    "display": "Chronic kidney disease stage 1 (disorder)",
+    "tag": "disorder",
+    "count": 121
+  },
+  "hyperlipidemia": {
+    "code": "55822004",
+    "display": "Hyperlipidemia (disorder)",
+    "tag": "disorder",
+    "count": 115
+  },
+  "loose dental filling": {
+    "code": "278602001",
+    "display": "Loose dental filling (finding)",
+    "tag": "finding",
+    "count": 113
+  },
+  "overdose": {
+    "code": "1149222004",
+    "display": "Overdose (disorder)",
+    "tag": "disorder",
+    "count": 111
+  },
+  "severe anxiety (panic)": {
+    "code": "80583007",
+    "display": "Severe anxiety (panic) (finding)",
+    "tag": "finding",
+    "count": 110
+  },
+  "leaking dental filling": {
+    "code": "278598003",
+    "display": "Leaking dental filling (finding)",
+    "tag": "finding",
+    "count": 108
+  },
+  "microalbuminuria due to type 2 diabetes mellitus": {
+    "code": "90781000119102",
+    "display": "Microalbuminuria due to type 2 diabetes mellitus (disorder)",
+    "tag": "disorder",
+    "count": 107
+  },
+  "diabetes mellitus type 2": {
+    "code": "44054006",
+    "display": "Diabetes mellitus type 2 (disorder)",
+    "tag": "disorder",
+    "count": 104
+  },
+  "chronic kidney disease stage 2": {
+    "code": "431856006",
+    "display": "Chronic kidney disease stage 2 (disorder)",
+    "tag": "disorder",
+    "count": 103
+  },
+  "hypertriglyceridemia": {
+    "code": "302870006",
+    "display": "Hypertriglyceridemia (disorder)",
+    "tag": "disorder",
+    "count": 102
+  },
+  "fractured dental filling": {
+    "code": "278588009",
+    "display": "Fractured dental filling (finding)",
+    "tag": "finding",
+    "count": 100
+  },
+  "fracture of bone": {
+    "code": "125605004",
+    "display": "Fracture of bone (disorder)",
+    "tag": "disorder",
+    "count": 99
+  },
+  "laceration - injury": {
+    "code": "312608009",
+    "display": "Laceration - injury (disorder)",
+    "tag": "disorder",
+    "count": 98
+  },
+  "chronic neck pain": {
+    "code": "1121000119107",
+    "display": "Chronic neck pain (finding)",
+    "tag": "finding",
+    "count": 91
+  },
+  "housing unsatisfactory": {
+    "code": "105531004",
+    "display": "Housing unsatisfactory (finding)",
+    "tag": "finding",
+    "count": 89
+  },
+  "sprain": {
+    "code": "384709000",
+    "display": "Sprain (morphologic abnormality)",
+    "tag": "morphologic abnormality",
+    "count": 85
+  },
+  "history of tubal ligation": {
+    "code": "267020005",
+    "display": "History of tubal ligation (situation)",
+    "tag": "situation",
+    "count": 84
+  },
+  "polyp of colon": {
+    "code": "68496003",
+    "display": "Polyp of colon (disorder)",
+    "tag": "disorder",
+    "count": 81
+  },
+  "proteinuria due to type 2 diabetes mellitus": {
+    "code": "157141000119108",
+    "display": "Proteinuria due to type 2 diabetes mellitus (disorder)",
+    "tag": "disorder",
+    "count": 79
+  },
+  "only received primary school education": {
+    "code": "224295006",
+    "display": "Only received primary school education (finding)",
+    "tag": "finding",
+    "count": 78
+  },
+  "chronic kidney disease stage 3": {
+    "code": "433144002",
+    "display": "Chronic kidney disease stage 3 (disorder)",
+    "tag": "disorder",
+    "count": 72
+  },
+  "transport problem": {
+    "code": "266934004",
+    "display": "Transport problem (finding)",
+    "tag": "finding",
+    "count": 72
+  },
+  "lack of access to transportation": {
+    "code": "713458007",
+    "display": "Lack of access to transportation (finding)",
+    "tag": "finding",
+    "count": 72
+  },
+  "history of coronary artery bypass grafting": {
+    "code": "399261000",
+    "display": "History of coronary artery bypass grafting (situation)",
+    "tag": "situation",
+    "count": 71
+  },
+  "streptococcal sore throat": {
+    "code": "43878008",
+    "display": "Streptococcal sore throat (disorder)",
+    "tag": "disorder",
+    "count": 71
+  },
+  "acute infective cystitis": {
+    "code": "307426000",
+    "display": "Acute infective cystitis (disorder)",
+    "tag": "disorder",
+    "count": 65
+  },
+  "sprain of ankle": {
+    "code": "44465007",
+    "display": "Sprain of ankle (disorder)",
+    "tag": "disorder",
+    "count": 57
+  },
+  "misuses drugs": {
+    "code": "361055000",
+    "display": "Misuses drugs (finding)",
+    "tag": "finding",
+    "count": 56
+  },
+  "hyperglycemia": {
+    "code": "80394007",
+    "display": "Hyperglycemia (disorder)",
+    "tag": "disorder",
+    "count": 56
+  },
+  "suspected disease caused by severe acute respiratory coronavirus 2": {
+    "code": "840544004",
+    "display": "Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)",
+    "tag": "situation",
+    "count": 53
+  },
+  "osteoarthritis of knee": {
+    "code": "239873007",
+    "display": "Osteoarthritis of knee (disorder)",
+    "tag": "disorder",
+    "count": 52
+  },
+  "disease caused by severe acute respiratory syndrome coronavirus 2": {
+    "code": "840539006",
+    "display": "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)",
+    "tag": "disorder",
+    "count": 52
+  },
+  "awaiting transplantation of kidney": {
+    "code": "698306007",
+    "display": "Awaiting transplantation of kidney (situation)",
+    "tag": "situation",
+    "count": 47
+  },
+  "history of myocardial infarction": {
+    "code": "399211009",
+    "display": "History of myocardial infarction (situation)",
+    "tag": "situation",
+    "count": 46
+  },
+  "history of appendectomy": {
+    "code": "428251008",
+    "display": "History of appendectomy (situation)",
+    "tag": "situation",
+    "count": 45
+  },
+  "chronic kidney disease stage 4": {
+    "code": "431857002",
+    "display": "Chronic kidney disease stage 4 (disorder)",
+    "tag": "disorder",
+    "count": 44
+  },
+  "fever": {
+    "code": "386661006",
+    "display": "Fever (finding)",
+    "tag": "finding",
+    "count": 44
+  },
+  "sleep disorder": {
+    "code": "39898005",
+    "display": "Sleep disorder (disorder)",
+    "tag": "disorder",
+    "count": 41
+  },
+  "history of renal transplant": {
+    "code": "161665007",
+    "display": "History of renal transplant (situation)",
+    "tag": "situation",
+    "count": 41
+  },
+  "serving in military service": {
+    "code": "1187604002",
+    "display": "Serving in military service (finding)",
+    "tag": "finding",
+    "count": 41
+  },
+  "sepsis": {
+    "code": "91302008",
+    "display": "Sepsis (disorder)",
+    "tag": "disorder",
+    "count": 40
+  },
+  "impacted molars": {
+    "code": "196416002",
+    "display": "Impacted molars (disorder)",
+    "tag": "disorder",
+    "count": 40
+  },
+  "refugee": {
+    "code": "446654005",
+    "display": "Refugee (person)",
+    "tag": "person",
+    "count": 38
+  },
+  "sinusitis": {
+    "code": "36971009",
+    "display": "Sinusitis (disorder)",
+    "tag": "disorder",
+    "count": 37
+  },
+  "osteoporosis": {
+    "code": "64859006",
+    "display": "Osteoporosis (disorder)",
+    "tag": "disorder",
+    "count": 37
+  },
+  "dependent drug abuse": {
+    "code": "6525002",
+    "display": "Dependent drug abuse (disorder)",
+    "tag": "disorder",
+    "count": 37
+  },
+  "asthma": {
+    "code": "195967001",
+    "display": "Asthma (disorder)",
+    "tag": "disorder",
+    "count": 37
+  },
+  "cough": {
+    "code": "49727002",
+    "display": "Cough (finding)",
+    "tag": "finding",
+    "count": 37
+  },
+  "recurrent urinary tract infection": {
+    "code": "197927001",
+    "display": "Recurrent urinary tract infection (disorder)",
+    "tag": "disorder",
+    "count": 36
+  },
+  "concussion injury of brain": {
+    "code": "110030002",
+    "display": "Concussion injury of brain (disorder)",
+    "tag": "disorder",
+    "count": 35
+  },
+  "miscarriage in first trimester": {
+    "code": "19169002",
+    "display": "Miscarriage in first trimester (disorder)",
+    "tag": "disorder",
+    "count": 35
+  },
+  "fracture of clavicle": {
+    "code": "58150001",
+    "display": "Fracture of clavicle (disorder)",
+    "tag": "disorder",
+    "count": 34
+  },
+  "neuropathy due to type 2 diabetes mellitus": {
+    "code": "368581000119106",
+    "display": "Neuropathy due to type 2 diabetes mellitus (disorder)",
+    "tag": "disorder",
+    "count": 34
+  },
+  "chronic intractable migraine without aura": {
+    "code": "124171000119105",
+    "display": "Chronic intractable migraine without aura (disorder)",
+    "tag": "disorder",
+    "count": 33
+  },
+  "loss of taste": {
+    "code": "36955009",
+    "display": "Loss of taste (finding)",
+    "tag": "finding",
+    "count": 32
+  },
+  "acute bacterial sinusitis": {
+    "code": "75498004",
+    "display": "Acute bacterial sinusitis (disorder)",
+    "tag": "disorder",
+    "count": 32
+  },
+  "alveolitis of jaw": {
+    "code": "61804006",
+    "display": "Alveolitis of jaw (disorder)",
+    "tag": "disorder",
+    "count": 31
+  },
+  "injury of neck": {
+    "code": "90460009",
+    "display": "Injury of neck (disorder)",
+    "tag": "disorder",
+    "count": 31
+  },
+  "whiplash injury to neck": {
+    "code": "39848009",
+    "display": "Whiplash injury to neck (disorder)",
+    "tag": "disorder",
+    "count": 31
+  },
+  "concussion with no loss of consciousness": {
+    "code": "62106007",
+    "display": "Concussion with no loss of consciousness (disorder)",
+    "tag": "disorder",
+    "count": 30
+  },
+  "obstructive sleep apnea syndrome": {
+    "code": "78275009",
+    "display": "Obstructive sleep apnea syndrome (disorder)",
+    "tag": "disorder",
+    "count": 29
+  },
+  "burn injury": {
+    "code": "48333001",
+    "display": "Burn injury (morphologic abnormality)",
+    "tag": "morphologic abnormality",
+    "count": 28
+  },
+  "sprain of wrist": {
+    "code": "70704007",
+    "display": "Sprain of wrist (disorder)",
+    "tag": "disorder",
+    "count": 28
+  },
+  "myocardial infarction": {
+    "code": "22298006",
+    "display": "Myocardial infarction (disorder)",
+    "tag": "disorder",
+    "count": 28
+  },
+  "laceration of foot": {
+    "code": "284551006",
+    "display": "Laceration of foot (disorder)",
+    "tag": "disorder",
+    "count": 27
+  },
+  "fracture of forearm": {
+    "code": "65966004",
+    "display": "Fracture of forearm (disorder)",
+    "tag": "disorder",
+    "count": 26
+  },
+  "adolescent idiopathic scoliosis": {
+    "code": "203646004",
+    "display": "Adolescent idiopathic scoliosis (disorder)",
+    "tag": "disorder",
+    "count": 26
+  },
+  "recurrent rectal polyp": {
+    "code": "713197008",
+    "display": "Recurrent rectal polyp (disorder)",
+    "tag": "disorder",
+    "count": 25
+  },
+  "localized, primary osteoarthritis of the hand": {
+    "code": "201834006",
+    "display": "Localized, primary osteoarthritis of the hand (disorder)",
+    "tag": "disorder",
+    "count": 25
+  },
+  "otitis media": {
+    "code": "65363002",
+    "display": "Otitis media (disorder)",
+    "tag": "disorder",
+    "count": 25
+  },
+  "seizure disorder": {
+    "code": "128613002",
+    "display": "Seizure disorder (disorder)",
+    "tag": "disorder",
+    "count": 24
+  },
+  "history of seizure": {
+    "code": "1290882004",
+    "display": "History of seizure (situation)",
+    "tag": "situation",
+    "count": 24
+  },
+  "complete miscarriage": {
+    "code": "156073000",
+    "display": "Complete miscarriage (disorder)",
+    "tag": "disorder",
+    "count": 23
+  },
+  "nonproliferative diabetic retinopathy due to type ii diabetes mellitus": {
+    "code": "1551000119108",
+    "display": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+    "tag": "",
+    "count": 23
+  },
+  "pneumonia": {
+    "code": "233604007",
+    "display": "Pneumonia (disorder)",
+    "tag": "disorder",
+    "count": 23
+  },
+  "chronic congestive heart failure": {
+    "code": "88805009",
+    "display": "Chronic congestive heart failure (disorder)",
+    "tag": "disorder",
+    "count": 22
+  },
+  "acute non-st segment elevation myocardial infarction": {
+    "code": "401314000",
+    "display": "Acute non-ST segment elevation myocardial infarction (disorder)",
+    "tag": "disorder",
+    "count": 22
+  },
+  "suspected prostate cancer": {
+    "code": "315268008",
+    "display": "Suspected prostate cancer (situation)",
+    "tag": "situation",
+    "count": 22
+  },
+  "fracture subluxation of wrist": {
+    "code": "263102004",
+    "display": "Fracture subluxation of wrist (disorder)",
+    "tag": "disorder",
+    "count": 20
+  },
+  "end-stage renal disease": {
+    "code": "46177005",
+    "display": "End-stage renal disease (disorder)",
+    "tag": "disorder",
+    "count": 20
+  },
+  "acute st segment elevation myocardial infarction": {
+    "code": "401303003",
+    "display": "Acute ST segment elevation myocardial infarction (disorder)",
+    "tag": "disorder",
+    "count": 20
+  },
+  "alzheimer's disease": {
+    "code": "26929004",
+    "display": "Alzheimer's disease (disorder)",
+    "tag": "disorder",
+    "count": 19
+  },
+  "osteoarthritis of hip": {
+    "code": "239872002",
+    "display": "Osteoarthritis of hip (disorder)",
+    "tag": "disorder",
+    "count": 19
+  },
+  "laceration of forearm": {
+    "code": "283371005",
+    "display": "Laceration of forearm (disorder)",
+    "tag": "disorder",
+    "count": 19
+  },
+  "laceration of hand": {
+    "code": "284549007",
+    "display": "Laceration of hand (disorder)",
+    "tag": "disorder",
+    "count": 18
+  },
+  "laceration of thigh": {
+    "code": "283385000",
+    "display": "Laceration of thigh (disorder)",
+    "tag": "disorder",
+    "count": 18
+  },
+  "neoplasm of prostate": {
+    "code": "126906006",
+    "display": "Neoplasm of prostate (disorder)",
+    "tag": "disorder",
+    "count": 18
+  },
+  "epilepsy": {
+    "code": "84757009",
+    "display": "Epilepsy (disorder)",
+    "tag": "disorder",
+    "count": 17
+  },
+  "resorption of alveolar process due to dental trauma": {
+    "code": "1255252008",
+    "display": "Resorption of alveolar process due to dental trauma (disorder)",
+    "tag": "disorder",
+    "count": 17
+  },
+  "sputum finding": {
+    "code": "248595008",
+    "display": "Sputum finding (finding)",
+    "tag": "finding",
+    "count": 17
+  },
+  "carcinoma in situ of prostate": {
+    "code": "92691004",
+    "display": "Carcinoma in situ of prostate (disorder)",
+    "tag": "disorder",
+    "count": 17
+  },
+  "malignant neoplasm of breast": {
+    "code": "254837009",
+    "display": "Malignant neoplasm of breast (disorder)",
+    "tag": "disorder",
+    "count": 16
+  },
+  "epidermal burn of skin": {
+    "code": "403190006",
+    "display": "Epidermal burn of skin (disorder)",
+    "tag": "disorder",
+    "count": 16
+  },
+  "facial laceration": {
+    "code": "370247008",
+    "display": "Facial laceration (disorder)",
+    "tag": "disorder",
+    "count": 16
+  },
+  "fatigue": {
+    "code": "84229001",
+    "display": "Fatigue (finding)",
+    "tag": "finding",
+    "count": 15
+  },
+  "sterilization requested": {
+    "code": "183996000",
+    "display": "Sterilization requested (situation)",
+    "tag": "situation",
+    "count": 14
+  },
+  "pulmonary emphysema": {
+    "code": "87433001",
+    "display": "Pulmonary emphysema (disorder)",
+    "tag": "disorder",
+    "count": 14
+  },
+  "torus palatinus": {
+    "code": "46752004",
+    "display": "Torus palatinus (disorder)",
+    "tag": "disorder",
+    "count": 14
+  },
+  "hypoxemia": {
+    "code": "389087006",
+    "display": "Hypoxemia (disorder)",
+    "tag": "disorder",
+    "count": 14
+  },
+  "respiratory distress": {
+    "code": "271825005",
+    "display": "Respiratory distress (finding)",
+    "tag": "finding",
+    "count": 14
+  },
+  "suspected lung cancer": {
+    "code": "162573006",
+    "display": "Suspected lung cancer (situation)",
+    "tag": "situation",
+    "count": 13
+  },
+  "osteoporotic fracture of bone": {
+    "code": "443165006",
+    "display": "Osteoporotic fracture of bone (disorder)",
+    "tag": "disorder",
+    "count": 12
+  },
+  "chronic obstructive bronchitis": {
+    "code": "185086009",
+    "display": "Chronic obstructive bronchitis (disorder)",
+    "tag": "disorder",
+    "count": 12
+  },
+  "sleep apnea": {
+    "code": "73430006",
+    "display": "Sleep apnea (disorder)",
+    "tag": "disorder",
+    "count": 12
+  },
+  "acute respiratory failure": {
+    "code": "65710008",
+    "display": "Acute respiratory failure (disorder)",
+    "tag": "disorder",
+    "count": 12
+  },
+  "acute respiratory distress syndrome": {
+    "code": "67782005",
+    "display": "Acute respiratory distress syndrome (disorder)",
+    "tag": "disorder",
+    "count": 12
+  },
+  "dyspnea": {
+    "code": "267036007",
+    "display": "Dyspnea (finding)",
+    "tag": "finding",
+    "count": 12
+  },
+  "wheezing": {
+    "code": "56018004",
+    "display": "Wheezing (finding)",
+    "tag": "finding",
+    "count": 12
+  },
+  "injury of tendon of the rotator cuff of shoulder": {
+    "code": "307731004",
+    "display": "Injury of tendon of the rotator cuff of shoulder (disorder)",
+    "tag": "disorder",
+    "count": 12
+  },
+  "non-small cell lung cancer": {
+    "code": "254637007",
+    "display": "Non-small cell lung cancer (disorder)",
+    "tag": "disorder",
+    "count": 11
+  },
+  "non-small cell carcinoma of lung, tnm stage 1": {
+    "code": "424132000",
+    "display": "Non-small cell carcinoma of lung, TNM stage 1 (disorder)",
+    "tag": "disorder",
+    "count": 11
+  },
+  "partial thickness burn": {
+    "code": "403191005",
+    "display": "Partial thickness burn (disorder)",
+    "tag": "disorder",
+    "count": 11
+  },
+  "headache": {
+    "code": "25064002",
+    "display": "Headache (finding)",
+    "tag": "finding",
+    "count": 10
+  },
+  "fibromyalgia": {
+    "code": "203082005",
+    "display": "Fibromyalgia (disorder)",
+    "tag": "disorder",
+    "count": 10
+  },
+  "opioid abuse": {
+    "code": "5602001",
+    "display": "Opioid abuse",
+    "tag": "",
+    "count": 10
+  },
+  "fracture of ankle": {
+    "code": "16114001",
+    "display": "Fracture of ankle (disorder)",
+    "tag": "disorder",
+    "count": 10
+  },
+  "atrial fibrillation": {
+    "code": "49436004",
+    "display": "Atrial fibrillation (disorder)",
+    "tag": "disorder",
+    "count": 10
+  },
+  "blighted ovum": {
+    "code": "35999006",
+    "display": "Blighted ovum (disorder)",
+    "tag": "disorder",
+    "count": 9
+  },
+  "septic shock": {
+    "code": "76571007",
+    "display": "Septic shock (disorder)",
+    "tag": "disorder",
+    "count": 9
+  },
+  "smokes tobacco daily": {
+    "code": "449868002",
+    "display": "Smokes tobacco daily (finding)",
+    "tag": "finding",
+    "count": 9
+  },
+  "homeless": {
+    "code": "32911000",
+    "display": "Homeless (finding)",
+    "tag": "finding",
+    "count": 9
+  },
+  "injury of knee": {
+    "code": "125601008",
+    "display": "Injury of knee (disorder)",
+    "tag": "disorder",
+    "count": 9
+  },
+  "pre-eclampsia": {
+    "code": "398254007",
+    "display": "Pre-eclampsia (disorder)",
+    "tag": "disorder",
+    "count": 8
+  },
+  "familial alzheimer's disease of early onset": {
+    "code": "230265002",
+    "display": "Familial Alzheimer's disease of early onset (disorder)",
+    "tag": "disorder",
+    "count": 8
+  },
+  "chill": {
+    "code": "43724002",
+    "display": "Chill (finding)",
+    "tag": "finding",
+    "count": 8
+  },
+  "cerebrovascular accident": {
+    "code": "230690007",
+    "display": "Cerebrovascular accident (disorder)",
+    "tag": "disorder",
+    "count": 8
+  },
+  "overlapping malignant neoplasm of colon": {
+    "code": "109838007",
+    "display": "Overlapping malignant neoplasm of colon (disorder)",
+    "tag": "disorder",
+    "count": 7
+  },
+  "eclampsia in pregnancy": {
+    "code": "198992004",
+    "display": "Eclampsia in pregnancy (disorder)",
+    "tag": "disorder",
+    "count": 7
+  },
+  "sepsis caused by virus": {
+    "code": "770349000",
+    "display": "Sepsis caused by virus (disorder)",
+    "tag": "disorder",
+    "count": 7
+  },
+  "muscle pain": {
+    "code": "68962001",
+    "display": "Muscle pain (finding)",
+    "tag": "finding",
+    "count": 7
+  },
+  "joint pain": {
+    "code": "57676002",
+    "display": "Joint pain",
+    "tag": "",
+    "count": 7
+  },
+  "history of aortic valve replacement": {
+    "code": "1231000119100",
+    "display": "History of aortic valve replacement (situation)",
+    "tag": "situation",
+    "count": 7
+  },
+  "sore throat": {
+    "code": "267102003",
+    "display": "Sore throat (finding)",
+    "tag": "finding",
+    "count": 7
+  },
+  "malignant neoplasm of colon": {
+    "code": "363406005",
+    "display": "Malignant neoplasm of colon (disorder)",
+    "tag": "disorder",
+    "count": 6
+  },
+  "gout": {
+    "code": "90560007",
+    "display": "Gout",
+    "tag": "",
+    "count": 6
+  },
+  "miscarriage in second trimester": {
+    "code": "85116003",
+    "display": "Miscarriage in second trimester (disorder)",
+    "tag": "disorder",
+    "count": 6
+  },
+  "closed fracture of hip": {
+    "code": "359817006",
+    "display": "Closed fracture of hip (disorder)",
+    "tag": "disorder",
+    "count": 6
+  },
+  "alcoholism": {
+    "code": "7200002",
+    "display": "Alcoholism (disorder)",
+    "tag": "disorder",
+    "count": 6
+  },
+  "aortic valve stenosis": {
+    "code": "60573004",
+    "display": "Aortic valve stenosis (disorder)",
+    "tag": "disorder",
+    "count": 6
+  },
+  "acute pulmonary embolism": {
+    "code": "706870000",
+    "display": "Acute pulmonary embolism (disorder)",
+    "tag": "disorder",
+    "count": 6
+  },
+  "atopic dermatitis": {
+    "code": "24079001",
+    "display": "Atopic dermatitis (disorder)",
+    "tag": "disorder",
+    "count": 5
+  },
+  "acute deep venous thrombosis": {
+    "code": "132281000119108",
+    "display": "Acute deep venous thrombosis (disorder)",
+    "tag": "disorder",
+    "count": 5
+  },
+  "appendicitis": {
+    "code": "74400008",
+    "display": "Appendicitis (disorder)",
+    "tag": "disorder",
+    "count": 5
+  },
+  "awaiting transplantation of bone marrow": {
+    "code": "698303004",
+    "display": "Awaiting transplantation of bone marrow (situation)",
+    "tag": "situation",
+    "count": 5
+  },
+  "major depressive disorder": {
+    "code": "370143000",
+    "display": "Major depressive disorder (disorder)",
+    "tag": "disorder",
+    "count": 5
+  },
+  "idiopathic atrophic hypothyroidism": {
+    "code": "83664006",
+    "display": "Idiopathic atrophic hypothyroidism (disorder)",
+    "tag": "disorder",
+    "count": 5
+  },
+  "body mass index 40+ - severely obese": {
+    "code": "408512008",
+    "display": "Body mass index 40+ - severely obese (finding)",
+    "tag": "finding",
+    "count": 5
+  },
+  "transformed migraine": {
+    "code": "427419006",
+    "display": "Transformed migraine (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "traumatic dislocation of temporomandibular joint": {
+    "code": "81629009",
+    "display": "Traumatic dislocation of temporomandibular joint (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "fracture of mandible": {
+    "code": "263172003",
+    "display": "Fracture of mandible (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "died in hospice": {
+    "code": "876882001",
+    "display": "Died in hospice (finding)",
+    "tag": "finding",
+    "count": 4
+  },
+  "gunshot wound": {
+    "code": "283545005",
+    "display": "Gunshot wound (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "bullet wound": {
+    "code": "262574004",
+    "display": "Bullet wound (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "preinfarction syndrome": {
+    "code": "4557003",
+    "display": "Preinfarction syndrome (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "fetus with chromosomal abnormality": {
+    "code": "267253006",
+    "display": "Fetus with chromosomal abnormality (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "leukemia, disease": {
+    "code": "93143009",
+    "display": "Leukemia, disease (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "aortic valve regurgitation": {
+    "code": "60234000",
+    "display": "Aortic valve regurgitation (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "kidney transplant failure and rejection": {
+    "code": "213150003",
+    "display": "Kidney transplant failure and rejection (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "childhood asthma": {
+    "code": "233678006",
+    "display": "Childhood asthma (disorder)",
+    "tag": "disorder",
+    "count": 4
+  },
+  "injury of heart": {
+    "code": "86175003",
+    "display": "Injury of heart (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "heart failure": {
+    "code": "84114007",
+    "display": "Heart failure (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "tubal pregnancy": {
+    "code": "79586000",
+    "display": "Tubal pregnancy (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "acute cholecystitis": {
+    "code": "65275009",
+    "display": "Acute cholecystitis (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "gallbladder calculus": {
+    "code": "235919008",
+    "display": "Gallbladder calculus (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "history of autologous bone marrow transplant": {
+    "code": "108631000119101",
+    "display": "History of autologous bone marrow transplant (situation)",
+    "tag": "situation",
+    "count": 3
+  },
+  "injury of anterior cruciate ligament": {
+    "code": "444470001",
+    "display": "Injury of anterior cruciate ligament (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "fracture of rib": {
+    "code": "33737001",
+    "display": "Fracture of rib (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "mitral valve regurgitation": {
+    "code": "48724000",
+    "display": "Mitral valve regurgitation (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "primary malignant neoplasm of colon": {
+    "code": "93761005",
+    "display": "Primary malignant neoplasm of colon (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "concussion with loss of consciousness": {
+    "code": "62564004",
+    "display": "Concussion with loss of consciousness (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "traumatic or nontraumatic brain injury": {
+    "code": "127294003",
+    "display": "Traumatic or nontraumatic brain injury (disorder)",
+    "tag": "disorder",
+    "count": 3
+  },
+  "primary fibromyalgia syndrome": {
+    "code": "95417003",
+    "display": "Primary fibromyalgia syndrome (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "pulmonic valve stenosis": {
+    "code": "56786000",
+    "display": "Pulmonic valve stenosis (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "acquired coagulation disorder": {
+    "code": "234466008",
+    "display": "Acquired coagulation disorder (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "bacterial infectious disease": {
+    "code": "87628006",
+    "display": "Bacterial infectious disease (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "congenital uterine anomaly": {
+    "code": "37849005",
+    "display": "Congenital uterine anomaly (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "rupture of appendix": {
+    "code": "47693006",
+    "display": "Rupture of appendix (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "metastatic malignant neoplasm to prostate": {
+    "code": "94503003",
+    "display": "Metastatic malignant neoplasm to prostate (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "cerebral palsy": {
+    "code": "128188000",
+    "display": "Cerebral palsy (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "spasticity": {
+    "code": "221360009",
+    "display": "Spasticity (finding)",
+    "tag": "finding",
+    "count": 2
+  },
+  "gastroesophageal reflux disease": {
+    "code": "235595009",
+    "display": "Gastroesophageal reflux disease (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "history of peripheral stem cell transplant": {
+    "code": "153351000119102",
+    "display": "History of peripheral stem cell transplant (situation)",
+    "tag": "situation",
+    "count": 2
+  },
+  "proliferative diabetic retinopathy due to type ii diabetes mellitus": {
+    "code": "1501000119109",
+    "display": "Proliferative diabetic retinopathy due to type II diabetes mellitus",
+    "tag": "",
+    "count": 2
+  },
+  "infectious mediastinitis": {
+    "code": "312157006",
+    "display": "Infectious mediastinitis (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "contact dermatitis": {
+    "code": "40275004",
+    "display": "Contact dermatitis (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "rheumatoid arthritis": {
+    "code": "69896004",
+    "display": "Rheumatoid arthritis (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "perennial allergic rhinitis": {
+    "code": "446096008",
+    "display": "Perennial allergic rhinitis (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "pulmonic valve regurgitation": {
+    "code": "91434003",
+    "display": "Pulmonic valve regurgitation (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "rupture of patellar tendon": {
+    "code": "30832001",
+    "display": "Rupture of patellar tendon (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "posttraumatic stress disorder": {
+    "code": "47505003",
+    "display": "Posttraumatic stress disorder (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "nasal congestion": {
+    "code": "68235000",
+    "display": "Nasal congestion (finding)",
+    "tag": "finding",
+    "count": 2
+  },
+  "injury of medial collateral ligament of knee": {
+    "code": "444448004",
+    "display": "Injury of medial collateral ligament of knee (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "perennial allergic rhinitis with seasonal variation": {
+    "code": "232353008",
+    "display": "Perennial allergic rhinitis with seasonal variation (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "tear of meniscus of knee": {
+    "code": "239720000",
+    "display": "Tear of meniscus of knee (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "small cell carcinoma of lung": {
+    "code": "254632001",
+    "display": "Small cell carcinoma of lung (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "primary small cell malignant neoplasm of lung, tnm stage 1": {
+    "code": "67811000119102",
+    "display": "Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)",
+    "tag": "disorder",
+    "count": 2
+  },
+  "history of amputation of foot": {
+    "code": "429280009",
+    "display": "History of amputation of foot (situation)",
+    "tag": "situation",
+    "count": 1
+  },
+  "injury of kidney": {
+    "code": "40095003",
+    "display": "Injury of kidney (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "acquired immune deficiency syndrome": {
+    "code": "62479008",
+    "display": "Acquired immune deficiency syndrome (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "multiple myeloma": {
+    "code": "109989006",
+    "display": "Multiple myeloma (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "dystonia": {
+    "code": "15802004",
+    "display": "Dystonia (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "intellectual disability": {
+    "code": "110359009",
+    "display": "Intellectual disability (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "seasonal allergic rhinitis": {
+    "code": "367498001",
+    "display": "Seasonal allergic rhinitis (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "bleeding from anus": {
+    "code": "6072007",
+    "display": "Bleeding from anus (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "protracted diarrhea": {
+    "code": "236077008",
+    "display": "Protracted diarrhea (finding)",
+    "tag": "finding",
+    "count": 1
+  },
+  "pain": {
+    "code": "22253000",
+    "display": "Pain (finding)",
+    "tag": "finding",
+    "count": 1
+  },
+  "dislocation of hip joint": {
+    "code": "157265008",
+    "display": "Dislocation of hip joint (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "excessive salivation": {
+    "code": "53827007",
+    "display": "Excessive salivation (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "dribbling from mouth": {
+    "code": "62718007",
+    "display": "Dribbling from mouth (finding)",
+    "tag": "finding",
+    "count": 1
+  },
+  "blindness due to type 2 diabetes mellitus": {
+    "code": "60951000119105",
+    "display": "Blindness due to type 2 diabetes mellitus (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "tongue tie": {
+    "code": "67787004",
+    "display": "Tongue tie (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "torus mandibularis": {
+    "code": "11625007",
+    "display": "Torus mandibularis (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "passive conjunctival congestion": {
+    "code": "246677007",
+    "display": "Passive conjunctival congestion (finding)",
+    "tag": "finding",
+    "count": 1
+  },
+  "human immunodeficiency virus infection": {
+    "code": "86406008",
+    "display": "Human immunodeficiency virus infection (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "chronic hepatitis c": {
+    "code": "128302006",
+    "display": "Chronic hepatitis C (disorder)",
+    "tag": "disorder",
+    "count": 1
+  },
+  "toxoplasma gondii antibody detected": {
+    "code": "428915008",
+    "display": "Toxoplasma gondii antibody detected (finding)",
+    "tag": "finding",
+    "count": 1
+  }
+}
