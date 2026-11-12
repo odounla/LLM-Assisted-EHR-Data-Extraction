@@ -1,5 +1,6 @@
 import json
 import logging
+import re
 from pathlib import Path
 from typing import Literal
 
@@ -39,7 +40,9 @@ class NERPipeline:
                           source: Literal["whisper", "gold"]) -> dict:
         entities = []
         for turn_index, turn in enumerate(turns):
-            doc = self.nlp(turn["text"])
+            # Whisper writes "pre-diabetes"; the tokenizer splits on the hyphen.
+            text = re.sub(r"\bpre[- ]diabet", "prediabet", turn["text"], flags=re.IGNORECASE)
+            doc = self.nlp(text)
             for ent in doc.ents:
                 entities.append({
                     "text": ent.text,

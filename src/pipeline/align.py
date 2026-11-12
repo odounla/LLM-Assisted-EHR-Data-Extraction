@@ -22,6 +22,10 @@ def align(whisper_result: dict, diarization) -> list:
         2. Label the first speaker heard in the audio as DOCTOR and the
            other as PATIENT (the corpus dialogues always start with the doctor).
         3. Merge consecutive words from the same speaker into one turn.
+
+    Spacing: Whisper puts a leading space on a piece that starts a new word
+    (" pre") and none on a piece that continues one ("-diabetes", ".85").
+    Pieces are joined as-is, so "pre-diabetes" and "5.85%" stay intact.
     """
     turns = []
     speaker_map = {}  # maps SPEAKER_00/01 -> DOCTOR/PATIENT
@@ -30,7 +34,7 @@ def align(whisper_result: dict, diarization) -> list:
         for w in seg["words"]:
             start = w["start"]
             end = w["end"]
-            text = w["word"].strip()
+            text = w["word"]  # keep Whisper's own spacing (no .strip())
 
             # Step 1: find the dominant speaker for this word
             window = Segment(start, end)
@@ -40,7 +44,7 @@ def align(whisper_result: dict, diarization) -> list:
             elif turns:
                 # word falls in a tiny gap between pyannote segments:
                 # keep it with the current speaker instead of dropping it
-                turns[-1]["text"] += " " + text
+                turns[-1]["text"] += text  # no added space
                 continue
             else:
                 continue
@@ -52,8 +56,9 @@ def align(whisper_result: dict, diarization) -> list:
 
             # Step 3: merge with previous turn if same speaker
             if turns and turns[-1]["speaker"] == speaker:
-                turns[-1]["text"] += " " + text
+                turns[-1]["text"] += text  # no added space
             else:
-                turns.append({"speaker": speaker, "text": text})
+                # a new turn starts clean, without the leading space
+                turns.append({"speaker": speaker, "text": text.strip()})
 
     return turns
